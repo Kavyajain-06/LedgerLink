@@ -1,4 +1,4 @@
-# 💳 LedgerLink AI — Trust Travels Even When Networks Don't
+# 💳 LedgerLink — Trust Travels Even When Networks Don't
 
 > **An AI-powered Offline-First FinTech Payment Platform built for resilient digital payments in low-connectivity environments.**
 
